@@ -1,6 +1,5 @@
-### Hi there 👋
+### (｡◝‿◜｡)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaomao361)](https://github.com/xiaomao361/github-readme-stats)
 
 [![xiaomao361's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaomao361)](https://github.com/xiaomao361/github-readme-stats)
 
