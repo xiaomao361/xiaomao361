@@ -6,7 +6,7 @@
 
 <p align="center">
   Building AI tools, native apps, and pocket-sized games.<br>
-  <a href="https://github.com/xiaomao361?tab=repositories">浏览全部项目</a>
+  <a href="https://xiaomao361.github.io/zhou-wei.com/">逛逛我的网站</a> · <a href="https://github.com/xiaomao361?tab=repositories">浏览全部项目</a>
 </p>
 
 ### AI 与 Agent
