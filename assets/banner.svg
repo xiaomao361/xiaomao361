@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Zhou Wei</title>
+  <desc id="desc">A warm illustrated workbench with a cat, a terminal window, and a pocket game console.</desc>
+  <rect width="1200" height="320" rx="24" fill="#F7F4EE"/>
+  <circle cx="1132" cy="26" r="164" fill="#E7EDE5"/>
+  <circle cx="1054" cy="336" r="160" fill="#F1DBCA"/>
+  <path d="M58 264H1142" stroke="#DAD5CB" stroke-width="2"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif">
+    <text x="64" y="77" font-size="13" letter-spacing="3" fill="#736F64">XIAOMAO361 / SMALL THINGS, MADE WITH CARE</text>
+    <text x="60" y="164" font-size="72" font-weight="700" letter-spacing="-3" fill="#292D2A">Zhou Wei.</text>
+    <text x="64" y="211" font-size="22" fill="#62665E">AI tools, native apps &amp; pocket-sized games.</text>
+  </g>
+  <g transform="translate(706 99)">
+    <rect x="0" y="0" width="214" height="140" rx="12" fill="#292D2A"/>
+    <path d="M0 30H214" stroke="#50584F"/>
+    <circle cx="17" cy="15" r="4" fill="#DA9D7D"/>
+    <circle cx="31" cy="15" r="4" fill="#D9C792"/>
+    <circle cx="45" cy="15" r="4" fill="#A6BA9E"/>
+    <path d="M23 57L32 64L23 71" fill="none" stroke="#D9C792" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M44 71H104M23 94H162M23 112H122" stroke="#869482" stroke-width="3" stroke-linecap="round"/>
+    <path d="M107 140V157M82 157H132" stroke="#62665E" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(944 102) rotate(8 65 78)">
+    <rect width="129" height="154" rx="20" fill="#DFAB8B" stroke="#B88666" stroke-width="2"/>
+    <rect x="14" y="16" width="101" height="71" rx="7" fill="#343C35"/>
+    <path d="M24 66Q39 58 52 66T80 65T104 64M24 74Q40 66 54 74T83 74T104 71" fill="none" stroke="#91A58A" stroke-width="2"/>
+    <path d="M82 31L59 47L65 63" fill="none" stroke="#D9C792" stroke-width="2"/>
+    <path d="M32 110H51M41.5 100.5V119.5" stroke="#343C35" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="93" cy="107" r="6" fill="#343C35"/>
+    <circle cx="78" cy="121" r="6" fill="#343C35"/>
+    <path d="M45 138H76" stroke="#B88666" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(676 205)" stroke="#62665E" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M0 56C-25 51-22 28-12 24C-5 22 0 29-5 35" fill="none"/>
+    <path d="M0 58V34L4 7L20 19L39 18L54 5L58 35V58Z" fill="#F7F4EE"/>
+    <path d="M16 34H20M38 34H42M27 42L31 45L35 42M10 42L-1 40M10 47L-1 48M48 42L60 40M48 47L60 49" fill="none"/>
+  </g>
+  <g fill="#B88666">
+    <circle cx="1096" cy="108" r="3"/>
+    <path d="M1103 146H1117M1110 139V153" stroke="#B88666" stroke-width="2" stroke-linecap="round"/>
+  </g>
+</svg>
