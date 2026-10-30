@@ -6,9 +6,9 @@
   <circle cx="1054" cy="336" r="160" fill="#F1DBCA"/>
   <path d="M58 264H1142" stroke="#DAD5CB" stroke-width="2"/>
   <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif">
-    <text x="64" y="77" font-size="13" letter-spacing="3" fill="#736F64">XIAOMAO361 / SMALL THINGS, MADE WITH CARE</text>
+    <text x="64" y="77" font-size="13" letter-spacing="3" fill="#736F64">XIAOMAO361</text>
     <text x="60" y="164" font-size="72" font-weight="700" letter-spacing="-3" fill="#292D2A">Zhou Wei.</text>
-    <text x="64" y="211" font-size="22" fill="#62665E">AI tools, native apps &amp; pocket-sized games.</text>
+    <text x="64" y="211" font-size="22" fill="#62665E">Software, games &amp; small devices.</text>
   </g>
   <g transform="translate(706 99)">
     <rect x="0" y="0" width="214" height="140" rx="12" fill="#292D2A"/>

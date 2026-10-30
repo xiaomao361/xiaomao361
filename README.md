@@ -1,56 +1,58 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Zhou Wei — AI tools, native apps, and pocket-sized games. Illustrated with a cat, terminal, and handheld console." width="100%">
+  <img src="assets/banner.svg" alt="Zhou Wei — software, games and small devices" width="100%">
 </p>
 
-<h3 align="center">做自己会用的小工具，也做一些奇怪的小玩意。</h3>
+<h3 align="center">写点软件，做点游戏。</h3>
 
 <p align="center">
-  Building AI tools, native apps, and pocket-sized games.<br>
-  <a href="https://xiaomao361.github.io/zhou-wei.com/">逛逛我的网站</a> · <a href="https://github.com/xiaomao361?tab=repositories">浏览全部项目</a>
+  Mac 和 iPhone 上的小工具，放进口袋里的游戏。<br>
+  <a href="https://xiaomao361.github.io/zhou-wei.com/">个人网站</a> · <a href="https://github.com/xiaomao361?tab=repositories">全部仓库</a>
 </p>
 
-### AI 与 Agent
+### 应用
 
-让 Agent 能记住、接着做，也让它们的状态和结果更容易检查。
-
-| 项目 | 在做什么 |
-| :--- | :--- |
-| [ClaraCore Desktop](https://github.com/xiaomao361/claracore-desktop) | 本地管理 Agent 的记忆、任务续接与运行状态。 |
-| [Cora](https://github.com/xiaomao361/cora) | 把应用错误日志整理成可复核的问题，通过 HTTP 与 MCP 交给人和 Agent 处理。 |
-
-### 日常小工具
-
-从生活里的一点小麻烦开始，做成简单、顺手的应用。
-
-| 项目 | 在做什么 | 体验 |
+| 项目 | 用途 | 下载 |
 | :--- | :--- | :--- |
-| [收下](https://github.com/xiaomao361/shouxia) | 把取件码收在一起，到站一眼找到。 | [App Store](https://apps.apple.com/cn/app/id6795735956) · [产品主页](https://xiaomao361.github.io/shouxia/) |
-| [搁这儿](https://github.com/xiaomao361/dockshelf) | 把待会儿要用的文件，暂时搁在 Mac 菜单栏。 | [下载应用](https://github.com/xiaomao361/dockshelf/releases/latest) |
-| [croc for macOS](https://github.com/xiaomao361/croc-gui) | 给 croc 文件传输工具做一个独立的原生 macOS 界面。 | [下载应用](https://github.com/xiaomao361/croc-gui/releases/latest) |
+| [收下](https://xiaomao361.github.io/shouxia/) | 从短信、文字和截图整理取件码，用小组件查看，或分享给代取的人。 | [App Store · 1.3.2](https://apps.apple.com/cn/app/id6795735956) |
+| [搁这儿](https://xiaomao361.github.io/dockshelf/) | Mac 菜单栏文件搁板。暂存引用，需要时拖到别的应用，原文件留在原处。 | [macOS · 0.1.5](https://github.com/xiaomao361/dockshelf/releases/latest) |
+| [croc for macOS](https://github.com/xiaomao361/croc-gui) | croc 的独立原生界面，用口令收发文件、查看进度和传输结果。 | [macOS · 0.3.2](https://github.com/xiaomao361/croc-gui/releases/latest) |
+| [ClaraCore Desktop](https://xiaomao361.github.io/claracore-desktop/) | 在本地保存智能体记忆、项目进度和 Markdown 资料，通过 MCP 连接不同客户端。 | [macOS / Windows · 1.0.6](https://github.com/xiaomao361/claracore-desktop/releases/latest) |
 
-### 小小的游戏
-
-**[Radwater · 余波](https://github.com/xiaomao361/radwater)** — 一款掌心里的废土钓鱼游戏，运行在 M5Stack Cardputer ADV 上。
+### Radwater · 余波
 
 水质尚未达标，垂钓照常进行。
 
-<p>
-  <a href="https://github.com/xiaomao361/radwater">
-    <img src="https://raw.githubusercontent.com/xiaomao361/radwater/main/assets/screens.png" alt="Radwater · 余波游戏场景，同源渲染预览" width="100%">
+一个可以随时放下的废土钓鱼故事。钓鱼，翻看旧物上的记录，拼出水边发生过的事。
+
+**AI Passport 版「余波：暮湾」已发布。** 三处水岸、四章故事，16 种鱼和 24 类旧物。离线游玩，咬钩会等你，关机后可以接着之前的进度继续。
+
+| 版本 | 入口 |
+| :--- | :--- |
+| AI Passport · 0.5.1 | [社区页面与安装](https://ai-passport.folotoy.cn/plays/1690/) |
+| Cardputer ADV 原版 | [源码与固件](https://github.com/xiaomao361/radwater) |
+
+<p align="center">
+  <a href="https://ai-passport.folotoy.cn/plays/1690/">
+    <img src="https://raw.githubusercontent.com/xiaomao361/zhou-wei.com/main/assets/radwater-passport.webp" alt="余波：暮湾的夕照水岸与码头，游戏画面预览" width="240">
   </a>
 </p>
 
-<sub>游戏画面为同源渲染预览。玩法、固件和安装说明见项目 README。</sub>
+### 开发工具
 
-<details>
-  <summary>也看看「收下」的样子</summary>
-  <br>
-  <a href="https://xiaomao361.github.io/shouxia/">
-    <img src="https://raw.githubusercontent.com/xiaomao361/shouxia/main/docs/app-store/screenshots/sanitized-1.2.5/01-home.png" alt="收下首页的脱敏展示图" width="280">
-  </a>
-  <p><sub>脱敏展示图；当前功能与安装入口见产品主页。</sub></p>
-</details>
+| 项目 | 用途 |
+| :--- | :--- |
+| [ClaraCore Server](https://github.com/xiaomao361/claracore-server) | 自托管的团队记忆与知识服务，按成员和空间管理访问权限。 |
+| [DSH Capability Gateway](https://github.com/xiaomao361/dsh-capability-gateway) | 给 DeepSeek Harness 按需查找和调用 Skills、MCP 工具。 |
+| [Cora](https://github.com/xiaomao361/cora) | 把应用报错归成问题，保存处理记录，通过 HTTP 和 MCP 查询。 |
+
+### 制作中
+
+- **微境 · Microcosm**：AI Passport 上的离线小生态。选择环境，放入生命，看它们觅食、跟随和避让。
+- **Wick**：五章离线小故事。一个小生灵发现远处的灯灭了，修好自己的灯，背上行囊出发。
+- **INK CREW**：通过蓝牙显示观察到的 Codex 工作状态和账号额度。个人改版，基于 [zt20 的 Codex Usage](https://github.com/zt20/codex-usage-ai-passport)。
+
+这三项暂未公开下载。[网站上的开发预览](https://xiaomao361.github.io/zhou-wei.com/#in-progress)。
 
 ---
 
-<p align="center"><sub>写点代码，做点东西，也玩点游戏。 (｡◝‿◜｡)</sub></p>
+<p align="center"><sub>(｡◝‿◜｡)</sub></p>
